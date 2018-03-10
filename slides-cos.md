@@ -15,7 +15,7 @@ date: 2018-03-10
 
 ##
 
-![](http://oer.fh-joanneum.at/contentstrategy/wp-content/uploads/2015/11/exploring.jpg){width=60%}
+![](pics/rahel.jpg){width=60%}
 
 > "A repeatable system that governs the management of content throughout the entire lifecycle"
 
