@@ -121,5 +121,7 @@ date: 2018-03-10
 
 ##
 
-Visit the #coscamp today and meet our students today! (Blue building, 1rst floor)
+![](https://www.barcamp.at/images/5/58/Content-Strategy-Camp-Graz_Logo_transparent.png)
+
+### Visit the #coscamp today and meet our students! (Blue building, 1rst floor)
 
